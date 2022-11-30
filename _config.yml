@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: LIS 9704
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a working draft
+tagline: a working draft of Mapping Makerspaces
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Placeholder Description for Makerspaces"
@@ -61,7 +61,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 

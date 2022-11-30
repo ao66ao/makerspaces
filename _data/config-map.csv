@@ -1,5 +1,4 @@
 field,display_name,search
-date,Date,TRUE
 creator,Library Branch,TRUE
 subject,Space,TRUE
 location,Location,TRUE

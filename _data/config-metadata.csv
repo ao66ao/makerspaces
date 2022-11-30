@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Branch,,
 creator,Library System,,
-date,Date Created,,
+date,Last Updated,,
 description,Description,,
 subject,Spaces,TRUE,
 location,Location,,

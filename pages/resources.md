@@ -12,11 +12,14 @@ credits: false
 
 ## About the Project
 
-{% include feature/button.html text="resources.html" link="https://ao66ao.github.io/resources.html" color="success" %}
+{% include feature/button.html text="About" link="https://ao66ao.github.io/about.html" color="success" %}
 
 ## For Makers
 This is a section for Makers to Get Resources
+{% include feature/button.html text="Resources for Makers" link="https://ao66ao.github.io/resources/formakers.html" color="success" %}
+
 
 ## For Librarians
 
 This is a section for Librarians to Get Resources
+{% include feature/button.html text="Resources for Libraries" link="https://ao66ao.github.io/resources/forlibraries.html" color="success" %}
