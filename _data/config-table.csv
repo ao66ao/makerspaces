@@ -1,5 +1,6 @@
 field,display_name
-title,Title
+title,Branch
+creator,Library System
 date,Date
 description,Description
-subject,Subjects
+subject,Spaces
