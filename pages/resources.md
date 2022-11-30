@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: about
-permalink: /resources.html
+permalink: /resources/resources.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
