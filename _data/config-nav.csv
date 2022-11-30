@@ -2,8 +2,10 @@ display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
 Map,/map.html,
-Browse,/browse.html,
 Spaces,/spaces.html,
 Locations,/locations.html,
 Data,/data.html,
+Browse,/browse.html,
 Resources,/resources.html,
+Makers,/formakers.html,Resources
+Libraries,/forlibraries.html,Resources
