@@ -33,7 +33,7 @@
 <div class="card mb-3">
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
     <div class="card-body">
-        {% if include.title %}<h5 class="card-title">{{ include.title | include.creator }}</h5>{% endif %}
+        {% if include.title %}<h5 class="card-title">{{ include.title } | { include.creator } }</h5>{% endif %}
         
         <div id="imageCarousel" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
             <div id="carouselIndicators" class="carousel-indicators">
