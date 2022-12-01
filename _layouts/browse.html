@@ -11,7 +11,7 @@ custom-foot: js/browse-js.html
         <form class="" role="search" id="lunrSearch" onsubmit="submitFilter(); return false;">
             <div class="input-group input-group-lg">
                 <input type="text" class="form-control" id="filterTextBox" placeholder="Filter ... " aria-label="Search"> 
-                <button class="btn btn-success" type="submit" title="Filter items" alt="Search" id="filterButton" >Search</button>
+                <button class="btn btn-success" type="submit" title="Filter spaces" alt="Search" id="filterButton" >Search</button>
                 <button class="btn btn-outline-secondary filter" onclick="resetFilter(); return false;" data-filter="">Reset</button>
             </div>
         </form>
@@ -24,7 +24,7 @@ custom-foot: js/browse-js.html
             </button>
             <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
                 <button class="dropdown-item browse-sort-item active" data-filter="random">Random</button>
-                <button class="dropdown-item browse-sort-item" data-filter="title">Title</button>
+                <button class="dropdown-item browse-sort-item" data-filter="title">Space</button>
                 {% assign sort_options = site.data.config-browse | where_exp: 'i','i.sort_name != nil' %}
                 {% for o in sort_options %}
                 <button class="dropdown-item browse-sort-item" data-filter="{{ o.field | escape }}">{{ o.sort_name }}</button>
