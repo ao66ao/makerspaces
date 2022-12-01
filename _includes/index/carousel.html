@@ -22,7 +22,7 @@
 {%- if youtube-items -%}{%- assign carousel-items = image-items | concat: youtube-items -%}{%- else -%}{%- assign carousel-items = image-items -%}{% endif %}
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
-{%- assign btn-text = include.btn-text | default: "View Item" -%}
+{%- assign btn-text = include.btn-text | default: "View Space" -%}
 
 {%- comment -%}
     Set up carousel div
