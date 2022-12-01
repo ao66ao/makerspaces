@@ -4,3 +4,4 @@ creator,TRUE,TRUE
 description,TRUE,FALSE
 subject,TRUE,TRUE
 location,TRUE,TRUE
+collection,TRUE,TRUE

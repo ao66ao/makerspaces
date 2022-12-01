@@ -2,3 +2,4 @@ field,display_name,search
 creator,Library Branch,TRUE
 subject,Space,TRUE
 location,Location,TRUE
+collection,Type,TRUE
