@@ -1,11 +1,11 @@
 field,display_name,browse_link,external_link
 title,Branch,,
 creator,Library System,,
-date,Last Updated,,
-description,Description,,
+location,Location,,
 subject,Spaces,TRUE,
 collection,Type,TRUE,
-location,Location,,
+description,Description,,
+date,Last Updated,,
 source,Source,,
 identifier,Source Identifier,,TRUE
 rights,Image Credit,,

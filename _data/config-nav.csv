@@ -2,7 +2,9 @@ display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
 Map,/map.html,
-Spaces,/spaces.html,
+Spaces,,Spaces
+Spaces,/spaces.html,Spaces
+Learn More,/spacetypes.html,
 Locations,/locations.html,
 Data,/data.html,
 Browse,/browse.html,
