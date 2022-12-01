@@ -1,16 +1,12 @@
-field,display_name,browse_link,external_link,hidden
-title,Branch,,,
-creator,Library System,,,
-date,Last Updated,,,
-description,Description,,,
-subject,Spaces,TRUE,,
-collection,Type,TRUE,,
-location,Location,,,
-latitude,Latitude,,,TRUE
-longitude,Longitude,,,TRUE
-source,Source,,TRUE,
-identifier,Source Identifier,,,
-type,Type,,,
-format,Format,,,TRUE
-rights,Rights,,,
-rightsstatement,Rights Statement,,TRUE,
+field,display_name,browse_link,external_link
+title,Branch,,
+creator,Library System,,
+date,Last Updated,,
+description,Description,,
+subject,Spaces,TRUE,
+collection,Type,TRUE,
+location,Location,,
+source,Source,,
+identifier,Source Identifier,,TRUE
+rights,Image Credit,,
+rightsstatement,Rights Statement,,TRUE
