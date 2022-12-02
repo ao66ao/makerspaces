@@ -1,7 +1,6 @@
 field,display_name,btn,hidden,sort_name
 creator,Library System,,,
-subject,Space,true,,
 location,Address,,,
 collection,Type,,,
-latitude,Latitude,,true,
-longitude,Longitude,,true,
+,,,,
+subject,,true,,true
