@@ -2,14 +2,13 @@ field,display_name,browse_link,external_link
 title,Branch,,
 creator,Library System,,
 location,Location,,
-subject,Spaces,TRUE,
-collection,Type,TRUE,
+subject,Spaces,true,
+collection,Type,true,
 description,Description,,
 date,Last Updated,,
 source,Source,,
-identifier,Source Identifier,,TRUE
 rights,Image Credit,,
-rightsstatement,Rights Statement,,TRUE
+rightsstatement,Rights Statement,,true
 latitude,Latitude,,
 longitude,Longitude,,
 format,Format,,

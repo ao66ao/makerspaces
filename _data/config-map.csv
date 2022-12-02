@@ -1,5 +1,5 @@
 field,display_name,search
-creator,Library Branch,TRUE
-subject,Space,TRUE
-location,Location,TRUE
-collection,Type,TRUE
+creator,Library Branch,true
+subject,Space,true
+location,Location,true
+collection,Type,true
