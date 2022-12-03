@@ -1,115 +1,139 @@
 objectid,filename,youtubeid,title,titleplus,creator,date,description,subject,location,latitude,longitude,collection,source,identifier,type,format,language,rights,rightsstatement
-agincourt1,3dprinter.jpg,,Agincourt,Agincourt | Toronto Public Library ,Toronto Public Library ,2022,Test Desc.,3D Printer,"155 Bonis Avenue
-Toronto
-M1T 3W6",43.78575714,-79.29327476,In-Library,TPL,https://www.torontopubliclibrary.ca/,,image,,Unsplash,CC or Other License
-agincourt2,computing.jpg,,Agincourt,Agincourt | Toronto Public Library ,Toronto Public Library ,2022,Test Desc. ,Coding and Computing,"155 Bonis Avenue
-Toronto
-M1T 3W6",43.78575714,-79.29327476,Circulating,TPL,https://www.torontopubliclibrary.ca/,,image,,Unsplash,CC or Other License
-agincourt3,crafting.jpg,,Agincourt,Agincourt | Toronto Public Library ,Toronto Public Library ,2022,Test Desc.,Crafting,"155 Bonis Avenue
-Toronto
-M1T 3W6",43.78575714,-79.29327476,In-Library,TPL,https://www.torontopubliclibrary.ca/,,image,,Unsplash,CC or Other License
-agincourt4,recording.jpg,,Agincourt,Agincourt | Toronto Public Library ,Toronto Public Library ,2022,Test Desc.,Recording Studio,"155 Bonis Avenue
-Toronto
-M1T 3W6",43.78575714,-79.29327476,Circulating,TPL,https://www.torontopubliclibrary.ca/,,image,,Unsplash,CC or Other License
-space5,scanner.jpg,,Albert Campbell,Albert Campbell | Toronto Public Library ,Toronto Public Library ,,,Digitization Equipment,"496 Birchmount Road
-Toronto
-M1K 1N8",43.70907259,-79.2688411,In-Library,,,,image,,Unsplash,
-space6,software.jpg,,Albion,Albion | Toronto Public Library ,Toronto Public Library ,,,Software Lab,"1515 Albion Road
-Toronto
-M9V 1B2",43.74076641,-79.58477352,,,,,image,,,
-space7,workshop.jpg,,Downsview,Downsview | Toronto Public Library ,Toronto Public Library ,,,Workshop,"2793 Keele Street
-Toronto
-M3M 2G3",43.72942708,-79.48223101,,,,,image,,,
-space8,,,Fort York,Fort York | Toronto Public Library ,Toronto Public Library ,,,,"190 Fort York Boulevard
-Toronto
-M5V 0E7",43.64012934,-79.40075596,,,,,image,,,
-space9,,,North York Central Library,North York Central Library | Toronto Public Library ,Toronto Public Library ,,,,"5120 Yonge Street
-Toronto
-M2N 5N9",43.76888737,-79.4144405,,,,,,,,
-space10,,,Richview,Richview | Toronto Public Library ,Toronto Public Library ,,,,"1806 Islington Avenue
-Toronto
-M9P 3N3",43.68434671,-79.54150727,,,,,,,,
-space11,,,Scarborough Civic Centre,Scarborough Civic Centre | Toronto Public Library ,Toronto Public Library ,,,,"156 Borough Drive
-Toronto
-M1P 4N7",43.77292015,-79.25721648,,,,,,,,
-space12,,,Toronto Reference Library,Toronto Reference Library | Toronto Public Library ,Toronto Public Library ,,,,"789 Yonge Street
-Toronto
-M4W 2G8",43.67279947,-79.38694468,,,,,,,,
-space13,,,Ancaster,Ancaster | Hamilton Public Library,Hamilton Public Library,,,,"300 Wilson Street East
+ancaster1,software.jpg,,Ancaster,Ancaster | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"300 Wilson Street East
 Ancaster
-L9G 2B9",43.225396,-79.97664174,,,,,,,,
-space14,,,Barton,Barton | Hamilton Public Library,Hamilton Public Library,,,,"571 Barton Street East
+L9G 2B9",43.225396,-79.97664174,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+ancaster2,scanner.jpg,,Ancaster,Ancaster | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"300 Wilson Street East
+Ancaster
+L9G 2B9",43.225396,-79.97664174,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+barton1,software.jpg,,Barton,Barton | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"571 Barton Street East
 Hamilton
-L8L 2Z4",43.25817256,-79.84129599,,,,,,,,
-space15,,,Binbrook,Binbrook | Hamilton Public Library,Hamilton Public Library,,,,"2641 Regional Road 56
+L8L 2Z4",43.25817256,-79.84129599,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+barton2,scanner.jpg,,Barton,Barton | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"571 Barton Street East
+Hamilton
+L8L 2Z4",43.25817256,-79.84129599,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+binbrook1,software.jpg,,Binbrook,Binbrook | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"2641 Regional Road 56
 Binbrook
-L0R 1C0",43.12196711,-79.80366062,,,,,,,,
-space16,,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,,,"55 York Boulevard
+L0R 1C0",43.12196711,-79.80366062,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+binbrook2,scanner.jpg,,Binbrook,Binbrook | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment,"2641 Regional Road 56
+Binbrook
+L0R 1C0",43.12196711,-79.80366062,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl1,3dprinter.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: Ultimaker 3 Extended 3D Printer; Prusa i3 Mk3S,3D Printer,"55 York Boulevard
 Hamilton
-L8N 2E4",43.25911479,-79.87042424,,,,,,,,
-space17,,,Concession,Concession | Hamilton Public Library,Hamilton Public Library,,,,"565 Concession Street
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl2,crafting.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: Cricut Explore Air 2; 2” Button maker,Crafting Tools,"55 York Boulevard
 Hamilton
-L8V 1A8",43.24127237,-79.85132717,,,,,,,,
-space18,,,Dundas,Dundas | Hamilton Public Library,Hamilton Public Library,,,,"18 Ogilvie St
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl3,software.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"55 York Boulevard
+Hamilton
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl4,scanner.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Canon imagePROGRAF TX-3000; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner; Ezcap Audio Cassete Tape to MP3 Converter; Vidbox Video Converter/Digitizer; Mini-DV Camcorder,Digitization & Document Equipment ,"55 York Boulevard
+Hamilton
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl5,recording.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,"Available: Steinberg UR44 Audio Interface; Fender Squire Telecaster Electric Guitar; Yamaha Acoustic Guitar; Vox Valvetronix VT40+ Amplifier; Alesis Electronic Drum Kit; M-Audio Keystation 88 MIDI Keyboard; Audio Technica AT2035 Microphone; Shure SM-58 Microphone; RODE Video Mic GO, On Camera Microphone; GoPro Hero4 Camera; Canon SL1 DSLR Camera; Canon T5 Rebel DSLR Camera",Recording Studio & Equipment ,"55 York Boulevard
+Hamilton
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl6,fabric.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: Roland SG2-300 Vinyl Printer/Cutter; Janome Memory Craft 500e Embroidery Machine,Style & Fabric Studio ,"55 York Boulevard
+Hamilton
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+centralhpl7,workshop.jpg,,Central Library,Central Library | Hamilton Public Library,Hamilton Public Library,,Available: GlowForge Pro (Laser Cutting),Workshop Tools ,"55 York Boulevard
+Hamilton
+L8N 2E4",43.25911479,-79.87042424,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+concession1,software.jpg,,Concession,Concession | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"565 Concession Street
+Hamilton
+L8V 1A8",43.24127237,-79.85132717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+concession2,scanner.jpg,,Concession,Concession | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"565 Concession Street
+Hamilton
+L8V 1A8",43.24127237,-79.85132717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+dundas1,software.jpg,,Dundas,Dundas | Hamilton Public Library,Hamilton Public Library,,Available; iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"18 Ogilvie St
 Dundas
-L9H 2S2",43.24362451,-79.80887072,,,,,,,,
-space19,,,Kenilworth,Kenilworth | Hamilton Public Library,Hamilton Public Library,,,,"103 Kenilworth Avenue North
+L9H 2S2",43.24362451,-79.80887072,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+dundas2,scanner.jpg,,Dundas,Dundas | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment,"18 Ogilvie St
+Dundas
+L9H 2S2",43.24362451,-79.80887072,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+dundas3,recording.jpg,,Dundas,Dundas | Hamilton Public Library,Hamilton Public Library,,Available: Yamaha DTX 502 Electronic Drum Kit; Vox Valvetronix VT40+ Amplifier; Epiphone Les Paul Standard Electric Guitar; Audio Technica AT2020 USB Microphone; M-Audio Keystation 88 MIDI Keyboard; Canon Tebel T5 DSLR Camera,Recording Studio & Equipment ,"18 Ogilvie St
+Dundas
+L9H 2S2",43.24362451,-79.80887072,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+kenilworth1,software.jpg,,Kenilworth,Kenilworth | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"103 Kenilworth Avenue North
 Hamilton
-L8H 4R6",43.24362451,-79.80887072,,,,,,,,
-space20,,,Lynden,Lynden | Hamilton Public Library,Hamilton Public Library,,,,"110 Lynden Rd
+L8H 4R6",43.24362451,-79.80887072,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+kenilworth2,scanner.jpg,,Kenilworth,Kenilworth | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"103 Kenilworth Avenue North
 Hamilton
-L0R 1T0",43.2368708,-80.14661905,,,,,,,,
-space21,,,Red Hill,Red Hill | Hamilton Public Library,Hamilton Public Library,,,,"695 Queenston Road
+L8H 4R6",43.24362451,-79.80887072,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+lynden1,software.jpg,,Lynden,Lynden | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"110 Lynden Rd
 Hamilton
-L8G 1A1",43.23052266,-79.77196552,,,,,,,,
-space22,,,Saltfleet,Saltfleet | Hamilton Public Library,Hamilton Public Library,,,,"131 Gray Road
+L0R 1T0",43.2368708,-80.14661905,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+lynden2,scanner.jpg,,Lynden,Lynden | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"110 Lynden Rd
+Hamilton
+L0R 1T0",43.2368708,-80.14661905,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+redhill1,3dprinter.jpg,,Red Hill,Red Hill | Hamilton Public Library,Hamilton Public Library,,Available: Ultimaker 2+ 3D Printer,3D Printer,"695 Queenston Road
+Hamilton
+L8G 1A1",43.23052266,-79.77196552,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+redhill2,software.jpg,,Red Hill,Red Hill | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"695 Queenston Road
+Hamilton
+L8G 1A1",43.23052266,-79.77196552,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+redhill3,scanner.jpg,,Red Hill,Red Hill | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Canon imagePROGRAF TX-3100 MFP Z36 (COMING SOON); Toshiba DVR 630KC VHS/DVD Player; Samsung External Blu-Ray Burner,Digitization & Document Equipment ,"695 Queenston Road
+Hamilton
+L8G 1A1",43.23052266,-79.77196552,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+redhill4,recording.jpg,,Red Hill,Red Hill | Hamilton Public Library,Hamilton Public Library,,Available: Yamaha DTX 502 Electronic Drum Kit; M-Audio Keystation 88 MIDI Keyboard; Audio Technica AT2020 USB Microphone; Canon Rebel T5 DSLR Camera,Recording Studio & Equipment ,"695 Queenston Road
+Hamilton
+L8G 1A1",43.23052266,-79.77196552,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+saltfleet1,scanner.jpg,,Saltfleet,Saltfleet | Hamilton Public Library,Hamilton Public Library,,Available: Canon imagePROGRAF TX-3100 MFP Z36 (COMING SOON),Digitization & Document Equipment ,"131 Gray Road
 Stoney Creek
-L8G 3V3",43.22241743,-79.74502727,,,,,,,,
-space23,,,Sherwood,Sherwood | Hamilton Public Library,Hamilton Public Library,,,,"467 Upper Ottawa Street
+L8G 3V3",43.22241743,-79.74502727,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+sherwood1,software.jpg,,Sherwood,Sherwood | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"467 Upper Ottawa Street
 Hamilton
-L8T 3T3",43.22672317,-79.82862459,,,,,,,,
-space24,,,Stoney Creek ,Stoney Creek  | Hamilton Public Library,Hamilton Public Library,,,,"777 Highway 8
+L8T 3T3",43.22672317,-79.82862459,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+sherwood2,scanner.jpg,,Sherwood,Sherwood | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"467 Upper Ottawa Street
+Hamilton
+L8T 3T3",43.22672317,-79.82862459,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+stoneycreek1,software.jpg,,Stoney Creek ,Stoney Creek  | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"777 Highway 8
 Stoney Creek
-L8E 5J4",43.21300985,-79.69132947,,,,,,,,
-space25,,,Terryberry,Terryberry | Hamilton Public Library,Hamilton Public Library,,,,"100 Mohawk Road West
-Hamilton
-L9C 1W1",43.23053209,-79.88676527,,,,,,,,
-space26,,,Turner Park,Turner Park | Hamilton Public Library,Hamilton Public Library,,,,"352 Rymal Road East
-Hamilton
-L9B 1C2",43.19864687,-79.87861717,,,,,,,,
-space27,,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,,,"970 Paramount Dr.
+L8E 5J4",43.21300985,-79.69132947,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+stoneycreek2,scanner.jpg,,Stoney Creek ,Stoney Creek  | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"777 Highway 8
 Stoney Creek
-L8J 1Y2",43.1933772,-79.79782474,,,,,,,,
-space28,,,Waterdown,Waterdown | Hamilton Public Library,Hamilton Public Library,,,,"163 Dundas St E
+L8E 5J4",43.21300985,-79.69132947,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+terryberry1,3dprinter.jpg,,Terryberry,Terryberry | Hamilton Public Library,Hamilton Public Library,,Available: Ultimaker 2+ 3D Printer,3D Printer,"100 Mohawk Road West
+Hamilton
+L9C 1W1",43.23053209,-79.88676527,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+terryberry2,software.jpg,,Terryberry,Terryberry | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"100 Mohawk Road West
+Hamilton
+L9C 1W1",43.23053209,-79.88676527,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+terryberry3,scanner.jpg,,Terryberry,Terryberry | Hamilton Public Library,Hamilton Public Library,,Available: EPSON-V 600 Scanner; Canon imagePROGRAF TX-3100 MFP Z36 (COMING SOON); Toshiba DVR 630KC VHS/DVD Player; Samsung External Blu-Ray Burner,Digitization & Document Equipment ,"100 Mohawk Road West
+Hamilton
+L9C 1W1",43.23053209,-79.88676527,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+terryberry4,recording.jpg,,Terryberry,Terryberry | Hamilton Public Library,Hamilton Public Library,,Available: Yamaha DTX 502 Electronic Drum Kit; Audio Technica AT2020 USB Microphone; M-Audio Keystation 88 MIDI Keyboard; Canon Rebel T5 DSLR Camera,Recording Studio & Equipment ,"100 Mohawk Road West
+Hamilton
+L9C 1W1",43.23053209,-79.88676527,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+turnerpark1,3dprinter.jpg,,Turner Park,Turner Park | Hamilton Public Library,Hamilton Public Library,,Available: Ultimaker 2+ 3D Printer,3D Printer,"352 Rymal Road East
+Hamilton
+L9B 1C2",43.19864687,-79.87861717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+turnerpark2,software.jpg,,Turner Park,Turner Park | Hamilton Public Library,Hamilton Public Library,,Available: iMac Computer; Intuos Wacom Tablet,Design & Software Studio ,"352 Rymal Road East
+Hamilton
+L9B 1C2",43.19864687,-79.87861717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+turnerpark3,scanner.jpg,,Turner Park,Turner Park | Hamilton Public Library,Hamilton Public Library,,Available: Canon 9000F MKII Flatbed Scanner; Canon imagePROGRAF TX-3100 MFP Z36 (COMING SOON); Toshiba DVR 630KC VHS/DVD Player; Nextech 8014508A External DVD Burner,Digitization & Document Equipment ,"352 Rymal Road East
+Hamilton
+L9B 1C2",43.19864687,-79.87861717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+turnerpark4,recording.jpg,,Turner Park,Turner Park | Hamilton Public Library,Hamilton Public Library,,Available: Yamaha DTX 502 Electronic Drum Kit; Epiphone Les Paul Standard Electric Guitar; Audio Technica AT2020 USB Microphone; M-Audio Keystation 88 MIDI Keyboard; Canon Rebel T5 DSLR Camera,Recording Studio & Equipment ,"352 Rymal Road East
+Hamilton
+L9B 1C2",43.19864687,-79.87861717,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark1,3dprinter.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: 3D printer,3D Printer,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark2,crafting.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: Cricut,Crafting Tools,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark3,software.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: iMac (Note: the iMac is part of this location's music and recording equipment); Intuos Wacom Tablet,Design & Software Studio ,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark4,scanner.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: Canon Scanner; Large Format Printer; vcr/dvd player; dvd burner; vidbox vhs digitization device,Digitization & Document Equipment ,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark5,recording.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: Nikon Camera and accessories; Acoustic guitar; keyboard; midi keyboard; 3 light stands; 2 microphones,Recording Studio & Equipment ,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+valleypark6,fabric.jpg,,Valley Park,Valley Park | Hamilton Public Library,Hamilton Public Library,,Available: Embroidery Machine; Sewing Machine; Serger,Style & Fabric Studio ,"970 Paramount Dr.
+Stoney Creek
+L8J 1Y2",43.1933772,-79.79782474,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
+waterdown1,scanner.jpg,,Waterdown,Waterdown | Hamilton Public Library,Hamilton Public Library,,Available: Canon imagePROGRAF TX-3100 MFP Z36 (COMING SOON),Digitization & Document Equipment ,"163 Dundas St E
 Waterdown
-L8N 2Z7",43.32409602,-79.90504659,,,,,,,,
-space29,,,Burnhamthorpe Library,Burnhamthorpe Library | Mississauga Public Library,Mississauga Public Library,,,,"3650 Dixie Road
-Mississauga
-L4Y 3V9",43.62144287,-79.60320885,,,,,,,,
-space30,,,Courtneypark Library,Courtneypark Library | Mississauga Public Library,Mississauga Public Library,,,,"730 Courtneypark Dr W 
-Mississauga
-L5W 1L9",43.62360713,-79.70994366,,,,,,,,
-space31,,,Erin Meadows Library,Erin Meadows Library | Mississauga Public Library,Mississauga Public Library,,,,"2800 Erin Centre Boulevard
-Mississauga
-L5M 6R5",43.55716448,-79.71755596,,,,,,,,
-space32,,,Malton Library,Malton Library | Mississauga Public Library,Mississauga Public Library,,,,"3540 Morning Star Drive
-Mississauga 
-L4T 1Y2",43.72361498,-79.6388903,,,,,,,,
-space33,,,Meadowvale Library,Meadowvale Library | Mississauga Public Library,Mississauga Public Library,,,,"6655 Glen Erin Drive
- Mississauga
-L5N 3L4",43.58535699,-79.75564597,,,,,,,,
-space34,,,Sheridan Library,Sheridan Library | Mississauga Public Library,Mississauga Public Library,,,,"2225 Erin Mills Parkway
-Mississauga
-L5K 1T9",43.53076233,-79.65250127,,,,,,,,
-space35,,,South Common Library,South Common Library | Mississauga Public Library,Mississauga Public Library,,,,"2233 South Millway
-Mississauga
-L5L 3H7",43.54254746,-79.68449237,,,,,,,,
-space36,,,Glen Abbey,Glen Abbey | Oakville Public Library ,Oakville Public Library ,,,,"1415 Third Line
-Oakville
-L6M 3G2",43.43588211,-79.73913291,,,,,,,,
-space37,,,Iroquois Ridge,Iroquois Ridge | Oakville Public Library ,Oakville Public Library ,,,,"1051 Glenashton Drive 
-Oakville 
-L6H 6Z4",43.48824495,-79.70087867,,,,,,,,
-space38,,,Central Branch ,Central Branch  | Burlington Public Library,Burlington Public Library,,,,"2331 New St
-Burlington
-L7R 1J4",43.33682681,-79.78992817,,,,,,,,
+L8N 2Z7",43.32409602,-79.90504659,,,https://www.hpl.ca/articles/makerspace-equipment-list,,image,,Include Rights Statement ,
