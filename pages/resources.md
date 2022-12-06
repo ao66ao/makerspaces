@@ -12,7 +12,7 @@ credits: false
 
 ## About the Project
 
-Redirect to About Page
+About Page
 
 {% include feature/button.html text="About" link="https://ao66ao.github.io/about.html" color="success" %}
 
