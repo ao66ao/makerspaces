@@ -11,9 +11,6 @@ $(document).ready( function () {
         // enable pagination 
         "paging": true,
         "lengthMenu": [[ 25, 50, 100, -1], [ 25, 50, 100, "All"]],
-        // add download features
-        dom: 'B<"row mt-2"<"col-md-6"l><"col-md-6"f>>t<"row"<"col-md-6"i><"col-md-6"p>>', 
-        buttons: [ 'excelHtml5', 'csvHtml5' ],
         // set up the columns from the json
         columns: [ {% for i in (0..fcount) %}{ data: '{{ i }}' }{% unless forloop.last %},{% endunless %}{% endfor %} ],
         columnDefs: [ 
