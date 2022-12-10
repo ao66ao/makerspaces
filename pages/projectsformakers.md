@@ -1,7 +1,7 @@
 ---
-title: Makers
+title: Resources for Makers
 layout: about
-permalink: /formakers.html
+permalink: /resourcesformakers.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
