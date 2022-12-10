@@ -10,7 +10,7 @@ credits: false
 
 ## About the Project
 
-This project maps makerspaces in public libraries in southern Ontario. As a prototype, two library systems are included: Toronto Public Library and Hamilton Public Library. Explore the __Map__ or __Browse__ word clouds for space types and library systems and to find makerspaces of all sorts found in the region. Each corresponding page includes a description of the tools, equipment and space available; the location information of the branch; and a link to the library's website for more information. __Search__ the full record by keyword to find matching makerspaces, or view the __Listing__ for the complete directory. 
+This project maps makerspaces in public libraries in southern Ontario. As a prototype, two library systems are included: Toronto Public Library and Hamilton Public Library. Explore the [Map](/map.html) or <b>Browse</b> word clouds for [space types](/spaces.html) and [library systems](/locations.html) and to find makerspaces of [all sorts](/browse.html) in the region. Each corresponding page includes a description of the tools, equipment and space available; the location information of the branch; and a link to the library's website for more information. [Search](/search/index.html) the full index by keyword to find matching makerspaces, or view the [Listing](/data.html) for the complete directory. 
 <br>
 <br>
 
