@@ -3,7 +3,7 @@ title: Credits
 layout: about
 permalink: /credits.html
 # include CollectionBuilder info at bottom
-credits: false
+credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -21,7 +21,7 @@ Image: Strateo3D IDEX420 3D printer finishing a dual print (modified: cropped), 
 Image: Silver and Green Circuit Board (modified: cropped), by Alessandro Oliverio. [Link](https://www.pexels.com/photo/silver-and-green-circuit-board-1472443/). Image used under the Pexels [License](https://www.pexels.com/license/).
 
 ##### Crafting Tools
-Image: Craft workshop (modified: cropped), by Jorge Franganillo. [Link](https://unsplash.com/photos/E0-pt-C9UwY).Image used under the Unsplash [License](https://unsplash.com/license).
+Image: Craft workshop (modified: cropped), by Jorge Franganillo. [Link](https://unsplash.com/photos/E0-pt-C9UwY). Image used under the Unsplash [License](https://unsplash.com/license).
 
 ##### Design and Software Studio 
 Image: My current desk setup (modified: cropped), by Carl Heyerdahl. [Link](https://unsplash.com/photos/KE0nC8-58MQ). Image used under the Unsplash [License](https://unsplash.com/license).
@@ -42,6 +42,3 @@ Image: Laser Cutting Machine at PTM Shop (modified: cropped), by Ptmtechnology. 
 Image: Blue and White Sorry We're Closed Wooden Signage (modified: cropped), by Tim Mossholder. [Link]( https://www.pexels.com/photo/blue-and-white-sorry-we-re-closed-wooden-signage-1171386/). Image used under the Pexels [License](https://www.pexels.com/license/).
 
 
-## Website Credits
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/). For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
