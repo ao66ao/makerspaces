@@ -14,7 +14,7 @@ Enter Project Description Here.
 
 ## Contribute to the Project 
 
-If you would like your public library's makerspace to appear on this site, fill in [this form] (https://forms.gle/Ke6apJCfp9hgDvTW9 "Submit Makerspace - Google Form").
+If you would like your public library's makerspace to appear on this site, fill in [this form](https://forms.gle/Ke6apJCfp9hgDvTW9 "Submit Makerspace - Google Form").
 
 ## Contact Us 
 
