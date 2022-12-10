@@ -8,6 +8,11 @@ permalink: /spacetypes.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
+### General Tips 
+Be aware that each library system will have different equipment, and policies for their makerspaces. **Always look up the policies and rules for the location you wish to visit ahead of times so that you can be well informed.** 
+
+Check locations for rules around consumable materials that must be provided by the library for use with their equipment, such as embroidery thread and 3D printer filament. There is almost always a small charge associated with using these consumable materials, typically charged by weight or dimensions. For many other machines where you will need to bring your own materials, you should ensure that these are compatible with the makerspace tools and equipment.  
+
 ### 3d Printers 
 This category includes various types of three-dimensional printers. Usually, the library will also have the needed design software to create objects to print, but check ahead to see what design files you are expected to bring. Note that there is usually a charge for the 3D printer filament used when printing an object.
 
