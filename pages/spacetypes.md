@@ -16,7 +16,7 @@ Check locations for rules around consumable materials that must be provided by t
 ### 3d Printers 
 This category includes various types of three-dimensional printers. Usually, the library will also have the needed design software to create objects to print, but check ahead to see what design files you are expected to bring. Note that there is usually a charge for the 3D printer filament used when printing an object.
 
-### Coding and Computing
+### Coding and Computing Equipment
 This category includes equipment and software that allows for the exploration of coding physical and digital objects. Equipment may include but is not limited to:
   - Arduino kits
   - Raspberry pi
