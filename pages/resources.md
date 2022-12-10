@@ -49,6 +49,9 @@ Find ideas for ways to use your makerspaces:
 
 {% include feature/button.html text="Makerspace Projects" link="/projects.html" color="info" %}
 
+### Further Resources
+Click the button below for some suggestions about where to browse your library shelves.
+
 {% include feature/button.html text="Found in the Catalogue" link="/dewey.html" color="info" %}
 
 
