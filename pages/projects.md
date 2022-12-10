@@ -45,3 +45,9 @@ There are many different resources about makerspaces available for libraries bot
 {% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}
 
 {% include feature/button.html text="Found in the Catalogue" link="/dewey.html" color="info" %}
+
+## Find Your Maker Community
+
+Check out the Makerspace Map for makerspaces in your area and across southern Ontario to visit.
+
+{% include feature/button.html text="Makerspace Map" link="/map.html" color="success" %}

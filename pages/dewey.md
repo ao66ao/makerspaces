@@ -63,14 +63,14 @@ Browsing your library shelves for DIY project books? Below is a list of Dewey de
 ### Further Resources 
 There are many different resources about makerspaces available for libraries both online and in print. Click the button below for a list of resources to get started.
 
-{% include feature/button.html text="Resources" link="/resources.html" color="info" %}
+{% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}
 <br>
 <br>
 
 ### More Programming and Project Ideas 
 Find ideas for ways to use your makerspaces: 
 
-{% include feature/button.html text="Projects" link="/projects.html" color="info" %}
+{% include feature/button.html text="Makerspace Projects" link="/projects.html" color="info" %}
 
 
 ## Find Your Maker Community
