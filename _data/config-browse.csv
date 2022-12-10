@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 creator,Library System,,,Library System
-location,Address,,,
+location,Address,,,Branch Location
 collection,Type,,,
 ,,,,
 subject,,true,,Space Type
