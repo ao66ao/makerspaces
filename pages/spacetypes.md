@@ -9,15 +9,27 @@ cloud-fields: site.data.theme.subjects-fields
 ---
 
 ### 3d Printers 
-### Crafts
+
+### Crafting Tools
+
 ### Coding and Computing
-### Digitization Tools
-### Fashion
-### Production Studios
-### Software Suites
-### Tool Workshop
-### More 
-#### In-Library 
-#### Circulating
+
+### Design and Software Studio 
+
+### Digitization and Document Equipment 
+
+### Recording Studio and Equipment 
+
+### Style and Fabric Studio 
+
+### Workshop Tools 
+
+### Other 
+
+##### Circulating
+
+##### Temporarily Closed 
+
+### Learn More 
 
 {% include feature/button.html text="Resources for Makers" link="https://ao66ao.github.io/formakers.html" color="success" %}     {% include feature/button.html text="Resources for Libraries" link="https://ao66ao.github.io/forlibraries.html" color="success" %}

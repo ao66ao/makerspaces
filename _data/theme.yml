@@ -49,18 +49,20 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 
 ##########
 # TIMELINE PAGE
+# lines have been commented out
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 5 # set increments when auto gen nav years
+# year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+# year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
 # DATA 
+# metadata lines commented out
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+# metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+# metadata-facets-fields: "subject,creator,format"
 
 ##########
 # ADVANCED OPTIONS
@@ -77,7 +79,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: lux # leave blank or comment out for plain bootstrap
+bootswatch: sandstone # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em

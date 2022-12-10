@@ -8,7 +8,7 @@ permalink: /spaces.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Spaces by Type
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Use this word cloud visualization to browse makerspaces by type.
+Word size is determined by number of spaces of that type, and all words link to a corresponding search of makerspace listings.

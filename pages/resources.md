@@ -12,16 +12,16 @@ credits: false
 
 ## About the Project
 
-About Page
+Learn more about the project to map makerspaces in southern Ontario.
 
-{% include feature/button.html text="About" link="https://ao66ao.github.io/about.html" color="success" %}
+{% include feature/button.html text="About" link="/about.html" color="success" %}
 
 ## For Makers
-This is a section for Makers to Get Resources
-{% include feature/button.html text="Resources for Makers" link="https://ao66ao.github.io/resources/formakers.html" color="success" %}
+Find Resources for Makers 
+{% include feature/button.html text="Resources for Makers" link="/formakers.html" color="success" %}
 
 
 ## For Librarians
 
-This is a section for Librarians to Get Resources
-{% include feature/button.html text="Resources for Libraries" link="https://ao66ao.github.io/resources/forlibraries.html" color="success" %}
+Find Resources for Librarians
+{% include feature/button.html text="Resources for Libraries" link="/forlibraries.html" color="success" %}

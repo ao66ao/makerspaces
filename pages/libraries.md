@@ -8,5 +8,5 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## For Libraries
+## Resources for Libraries
 

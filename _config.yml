@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: LIS 9704
+title: Mapping Makerspaces
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a working draft of Mapping Makerspaces
+tagline: Find Makerspaces in Public Libraries of Southern Ontario | a FIMS LIS 9704 project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Placeholder Description for Makerspaces"
+description: "This project maps makerspaces in public libraries in southern Ontario. Browse the map and corresponding word clouds to find makerspaces of all sorts, the tools, equipment and spaces available, their branch locations, and a link to the library's website for more information."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Adrienne
+author: Tegan Emes, Adrienne Orr
 
 ##########
 # COLLECTION SETTINGS
@@ -40,8 +40,8 @@ metadata: spaces-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "MLIS, FIMS, Western University"
+organization-link: https://www.fims.uwo.ca/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 

@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Use this word cloud visualization to browse public library systems.
+Word size is determined by the number of makerspaces in each system, and all words link to a corresponding search of makerspace listings.
