@@ -78,4 +78,5 @@ This update is included when the library branch has a makerspace, but it is temp
 ### Learn More 
 Find ideas and resources for ways to use these makerspaces: 
 
-{% include feature/button.html text="Projects" link="/projects.html" color="info" %}     {% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}
+{% include feature/button.html text="Makerspace Projects" link="/projects.html" color="info" %}
+{% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}

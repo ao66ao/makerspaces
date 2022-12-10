@@ -40,6 +40,6 @@ It should be noted that if it is not possible to open the library makerspace the
 Libraries need to consider how they will advertise and market their programs to their community. It is wise to allocate a modest budget for marketing, while still taking advantage of free forms of advertisement such as social media posts or placing events on the library website. Libraries must also consider what kinds of programs would appeal to their community, and whether the library can collaborate with an existing maker community in their area to boost awareness of library facilities and programs. One interesting tip is that community members may be intimidated by a long-running program series and may be more inclined to attend a one day, pop-up, or special event rather than committing to a weekly activity or joining a weekly program part way through its run. Having an open house could also boost community awareness of what your makerspace can offer.
 
 ### Further Resources
-There are many different resources about makerspaces available for librarians both online and in print. Click the button below for a list of resources to get started.
+There are many different resources about makerspaces available for libraries both online and in print. Click the button below for a list of resources to get started.
 
-{% include feature/button.html text="Resources for Libraries" link="/resources.html" color="success" %}
+{% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}
