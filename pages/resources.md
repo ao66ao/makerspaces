@@ -8,6 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/nav-menu.html sections="General Resources;Marketing;Programming Ideas" %}
+
 ## Resources for Libraries
 
 There are many different resources about makerspaces available for librarians both online and in print. Below is list of resources to get started, but it is by no means exhaustive. 
@@ -28,7 +30,7 @@ There are many different resources about makerspaces available for librarians bo
   +This is a small volume that thoroughly covers many aspects of marketing. The chapter that covers techniques for promoting services and resources may me of particular interest to libraries looking to attract more users for their makerspaces.
 
 
-### Programing Ideas
+### Programming Ideas
 **_The Maker’s Guide to the Zombie Apocalypse: Defend Your Base with Simple Circuits, Arduino, and Raspberry Pi_, by Simon Monk. 2016, No Starch Press.**
 
   +This book contains DIY projects geared towards zombie apocalypse survival such as how to charge a car battery by using solar panels or a bicycle, or how to create various alarms, lights and communication methods.
