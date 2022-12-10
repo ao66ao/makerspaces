@@ -44,10 +44,12 @@ __*The Big Book of Makerspace Projects: Inspiring Makers to Experiment, Create, 
 <br>
 <br>
 
-#### More Programming and Project Ideas for Libraries
+#### More Programming and Project Ideas
 Find ideas for ways to use your makerspaces: 
 
 {% include feature/button.html text="Makerspace Projects" link="/projects.html" color="info" %}
+
+{% include feature/button.html text="Found in the Catalogue" link="/dewey.html" color="info" %}
 
 
 ## Find Your Maker Community

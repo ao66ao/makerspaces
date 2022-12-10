@@ -14,7 +14,7 @@ This project maps makerspaces in public libraries in southern Ontario. As a prot
 <br>
 <br>
 
-The goal of this website is to support a community of makers and connect public library makerspaces. The __Resources__ section includes a reading list of resource materials, programming and project ideas, and suggestions for browsing the library shelves for more.
+The goal of this website is to support a community of makers and connect public library makerspaces. The Resources section includes a [reading list](/resources.html) of resource materials, [programming and project ideas](/projects.html), and suggestions for browsing the [library shelves](/dewey.html) for more.
 <br>
 <br>
 <br>

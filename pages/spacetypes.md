@@ -80,3 +80,4 @@ Find ideas and resources for ways to use these makerspaces:
 
 {% include feature/button.html text="Makerspace Projects" link="/projects.html" color="info" %}
 {% include feature/button.html text="Resources for Libraries" link="/resources.html" color="info" %}
+{% include feature/button.html text="Found in the Catalogue" link="/dewey.html" color="info" %}

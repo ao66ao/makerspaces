@@ -5,11 +5,12 @@ About the Project,/about.html,About
 Credits,/credits.html,About
 Map,/map.html,
 Spaces,,
-Browse by Space Types,/spaces.html,Spaces
-Browse by Library Systems,/locations.html,Spaces
-Browse All Makerspaces,/browse.html,Spaces
-Learn More,/spacetypes.html,Spaces
-Listing,/data.html,
+Space Types,/spacetypes.html,Spaces
+Listing,/data.html,Spaces
+Browse,,
+Browse by Space Types,/spaces.html,Browse
+Browse by Library Systems,/locations.html,Browse
+Browse All Makerspaces,/browse.html,Browse
 Resources,,
 Resources for Libraries,/resources.html,Resources
 Makerspace Projects,/projects.html,Resources

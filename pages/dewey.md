@@ -13,7 +13,7 @@ credits: false
 Browsing your library shelves for DIY project books? Below is a list of Dewey decimal call numbers related to several categories of makerspace equipment. These call numbers are meant to help users browse the library collection and are taken from books in the Toronto Public Library system, so they may not exactly match other library systems. Be sure to search your local library catalogue to see what books they have.
 
 #### General Makerspace activities
-  - _621.988_
+<li>_621.988_</li>
 <br>
 #### 3D Printers: 
   - _621.988  -  686.244_ 
@@ -46,14 +46,16 @@ Browsing your library shelves for DIY project books? Below is a list of Dewey de
 <br>
 <br>
 
-### More Resources 
+### Further Resources 
 There are many different resources about makerspaces available for libraries both online and in print. Click the button below for a list of resources to get started.
 
 {% include feature/button.html text="Resources" link="/resources.html" color="info" %}
 <br>
 <br>
 
-### More Project Ideas 
+### More Programming and Project Ideas 
+Find ideas for ways to use your makerspaces: 
+
 {% include feature/button.html text="Projects" link="/projects.html" color="info" %}
 
 
