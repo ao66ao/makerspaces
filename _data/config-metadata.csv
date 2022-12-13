@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
-title,Branch,,
-creator,Library System,,
+title,Branch,true,
+creator,Library System,true,
 location,Location,,
 subject,Space,true,
 collection,Type,true,

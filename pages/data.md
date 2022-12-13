@@ -8,4 +8,4 @@ permalink: /data.html
 
 ## List of All Makerspaces
 
-The table below provides sorting and basic search of the makerspaces included in this website. 
+The directory below provides sorting and basic search of the makerspaces included in this website. Use the [Search](/search/index.html) for more options. 

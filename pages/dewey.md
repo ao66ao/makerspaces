@@ -12,34 +12,34 @@ credits: false
 
 Browsing your library shelves for DIY project books? Below is a list of Dewey decimal call numbers related to several categories of makerspace equipment. These call numbers are meant to help users browse the library collection and are taken from books in the Toronto Public Library system, so they may not exactly match other library systems. Be sure to search your local library catalogue to see what books they have.
 
-#### General Makerspace activities
+#### General Makerspace Activities
   - _621.988_
 <br>
 <br>
 
-#### 3D Printers: 
+#### 3D Printers
   - _621.988  -  686.244_ 
 <br>
 <br>
 
-#### Computing and Coding Equipment: 
+#### Computing and Coding Equipment
   - _Arduino: 629.89551_
   - _Raspberry Pi: 004.165  -  004.1675  -  005.133_
 <br>
 <br>
 
-#### Crafting Tools:
+#### Crafting Tools
   - _Cricut machines: 736.98  -  745.54_
 <br>
 <br>
 
-#### Design and Software Studio:
+#### Design and Software Studio
   - _Wacom drawing tablets: 776_
   - _Adobe Creative Cloud: 006.686_
 <br>
 <br>
 
-#### Recording Studio and Equipment:
+#### Recording Studio and Equipment
   - _Audio engineering and recording: 621.3828  -  621.3893  -  781.49_
   - _GoPro cameras: 777.34_
   - _DSLR Cameras: 771.33  -  775  -  777  -  778.53  -  778.59_
@@ -49,7 +49,7 @@ Browsing your library shelves for DIY project books? Below is a list of Dewey de
 <br>
 
 #### Style and Fabric Studio
-  - General: _646.4072  -  646.478  -  646.48  -  687  -  739.27_
+  - _General: 646.4072  -  646.478  -  646.48  -  687  -  739.27_
   - _Embroidery machines: 746.44  -  746.44028_
   - _Sewing machines: 646.2044_
 <br>

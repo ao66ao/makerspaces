@@ -7,9 +7,11 @@ permalink: /spacetypes.html
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.subjects-fields
 ---
+## Mapped Makerspaces
+Learn more below about the different types of makerspaces found in public libraries. To search for spaces, explore the [Map](/map.html) or [Browse](/spaces.html) by type. View the [Listing](/data.html) for the full directory.
 
 ### General Tips 
-Be aware that each library system will have different equipment, and policies for their makerspaces. __Always look up the policies and rules for the location you wish to visit ahead of times so that you can be well informed.__ 
+Be aware that each library system will have different equipment, and policies for their makerspaces. <b>Always look up the policies and rules for the location you wish to visit ahead of time so that you can be well informed.</b> 
 
 Check locations for rules around consumable materials that must be provided by the library for use with their equipment, such as embroidery thread and 3D printer filament. There is almost always a small charge associated with using these consumable materials, typically charged by weight or dimensions. For many other machines where you will need to bring your own materials, you should ensure that these are compatible with the makerspace tools and equipment.  
 
